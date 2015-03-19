@@ -1,4 +1,4 @@
-class CfgPatches 
+class CfgPatches //Base class, every Mod needs this! 
 {
 	class edn_tracking
 	{
